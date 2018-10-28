@@ -1,6 +1,6 @@
 {
   "name": "@funcmatic/dotenvio-plugin",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "dotenv.io plugin for the Funcmatic Lambda JS framework",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
     "url": "https://github.com/getfuncmatic/dotenvio-plugin-funcmatic.git"
   },
   "dependencies": {
-    "@funcmatic/dotenvio": "0.0.1"
+    "@funcmatic/dotenvio": "^1.0.0"
   },
   "devDependencies": {
     "@funcmatic/funcmatic": "^2.2.0",
